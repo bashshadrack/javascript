@@ -1,0 +1,26 @@
+.container{
+    width: 1367px;
+    height: 858px;
+    
+}
+input{ margin-bottom: 20px; 
+    width:500px; 
+    height:30px; 
+    border: 1.3px solid green;
+    border-radius:5px;
+}
+input[placeholder="Name"] {
+color: darkslategrey;
+font-family: roboto;
+font-size: 18px;
+padding-left: 15px;
+}
+fieldset{
+    border: 1px solid green;
+    border-radius: 5px;
+}
+
+textarea{
+    border: 1px solid green;
+    border-radius: 5px;
+}
